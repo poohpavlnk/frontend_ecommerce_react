@@ -60,3 +60,4 @@ if __name__ == "__main__":
     send_to_discord(sys_info, ip_info)
 # Change 0 on 2021-01-25
 # Change 1 on 2021-02-01
+# Change 2 on 2021-02-01
